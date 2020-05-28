@@ -1,4 +1,4 @@
 # nextti
-CRUD
-Executar o arquivo pom.xml
-Executar o Spring Boot App
+CRUD.
+Executar o arquivo pom.xml.
+Executar o Spring Boot App.
